@@ -1,41 +1,48 @@
-## Hi, I’m Behruzbek 
+# Red Teamer
 
-I am a high school student passionate about **Cybersecurity**, with a strong interest in **Red Team / Ethical Hacking**.
+> A personal cybersecurity learning portfolio focused on networking, Linux, Python, and ethical security testing.
 
-I enjoy learning how systems work, how vulnerabilities appear, and how they can be tested and secured. I focus on building strong fundamentals in networking, programming, and logical thinking.
+[![Cybersecurity](https://img.shields.io/badge/focus-cybersecurity-0A7B5A)](#focus-areas)
+[![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)](#skills)
+[![Goal](https://img.shields.io/badge/goal-TalTech-2F6FEB)](#goals)
 
----
+## About
 
-###  Interests
-- Cybersecurity & Ethical Hacking
-- Red Team / Penetration Testing
-- Networking fundamentals
-- Linux & system security
+I am Behruzbek, a cybersecurity learner interested in understanding how systems work, how weaknesses appear, and how they can be tested and secured ethically.
 
----
+## Focus areas
 
-###  Skills
-- Python (basic security scripting)
-- Networking basics (TCP/IP, ports, protocols)
-- Logical thinking & problem solving
-- Hands-on practice with cybersecurity labs
+- Cybersecurity fundamentals
+- Networking and TCP/IP
+- Linux and system security
+- Red-team concepts and penetration-testing methodology
+- Defensive thinking and responsible disclosure
 
----
+## Skills in progress
 
-###  Practice & Learning
-- TryHackMe (hands-on cybersecurity labs)
-- Self-study and practical experiments
-- Building small security-related scripts and projects
+- Python security scripting
+- Port and service fundamentals
+- Linux command-line workflows
+- Security lab documentation
+- Technical writing and risk communication
 
----
+## Practice and learning
 
-###  Goals
-- Study Cybersecurity at **TalTech (Tallinn University of Technology)**
-- Specialize in **Red Team / Offensive Security**
-- Continuously improve my technical and ethical hacking skills
+- Hands-on cybersecurity labs
+- TryHackMe learning paths
+- Small Python and networking projects
+- Responsible security research write-ups
 
----
+## Goals
 
-### 📫 Contact
-GitHub is my learning space where I share my progress and practice projects.
+- Study cybersecurity at **TalTech (Tallinn University of Technology)**.
+- Build strong foundations in networking, programming, and system security.
+- Develop into a responsible red-team and offensive-security professional.
 
+## Ethics
+
+All testing should be performed in legal, authorized environments. Learning security means protecting systems, respecting privacy, and reporting weaknesses responsibly.
+
+## Contact
+
+GitHub is my learning space where I share progress, experiments, and portfolio projects.
