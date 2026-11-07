@@ -1,21 +1,17 @@
 # Red Teamer
 
-> A personal cybersecurity learning portfolio focused on networking, Linux, Python, and ethical security testing.
-
-[![Cybersecurity](https://img.shields.io/badge/focus-cybersecurity-0A7B5A)](#focus-areas)
-[![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)](#skills)
-[![Goal](https://img.shields.io/badge/goal-TalTech-2F6FEB)](#goals)
+My personal cybersecurity learning portfolio, focused on building practical foundations in networking, Linux, Python, and ethical security testing.
 
 ## About
 
-I am Behruzbek, a cybersecurity learner interested in understanding how systems work, how weaknesses appear, and how they can be tested and secured ethically.
+I’m Behruzbek, a cybersecurity learner interested in understanding how systems work, how security weaknesses arise, and how they can be responsibly identified and addressed. I use this repository to share learning progress and practice projects.
 
 ## Focus areas
 
 - Cybersecurity fundamentals
 - Networking and TCP/IP
 - Linux and system security
-- Red-team concepts and penetration-testing methodology
+- Red-team concepts and testing methodology
 - Defensive thinking and responsible disclosure
 
 ## Skills in progress
@@ -23,26 +19,17 @@ I am Behruzbek, a cybersecurity learner interested in understanding how systems 
 - Python security scripting
 - Port and service fundamentals
 - Linux command-line workflows
-- Security lab documentation
+- Security-lab documentation
 - Technical writing and risk communication
 
-## Practice and learning
+## How I learn
 
-- Hands-on cybersecurity labs
-- TryHackMe learning paths
-- Small Python and networking projects
-- Responsible security research write-ups
-
-## Goals
-
-- Study cybersecurity at **TalTech (Tallinn University of Technology)**.
-- Build strong foundations in networking, programming, and system security.
-- Develop into a responsible red-team and offensive-security professional.
+I work through hands-on labs, study learning paths, build small Python and networking projects, and practice writing clear research notes. My goal is to develop strong technical foundations and pursue cybersecurity studies at **TalTech (Tallinn University of Technology)**.
 
 ## Ethics
 
-All testing should be performed in legal, authorized environments. Learning security means protecting systems, respecting privacy, and reporting weaknesses responsibly.
+All security testing should be conducted in legal, authorized environments. I aim to respect privacy, stay within scope, and report weaknesses responsibly.
 
-## Contact
+## About this portfolio
 
-GitHub is my learning space where I share progress, experiments, and portfolio projects.
+This repository reflects an ongoing learning journey. Projects and skills will continue to develop as I gain experience.
